@@ -24,3 +24,6 @@ LinuxClubのLaTeX講座で使用した資料をMarkDownに落とし込んだも�
 * Wordとは違い本文を書く前に呪文を書く必要がある
 * <s>環境構築が面倒くさい</s>
 
+## LaTeXの環境構築
+
+Windowsはがんばれ
