@@ -27,3 +27,8 @@ LinuxClubのLaTeX講座で使用した資料をMarkDownに落とし込んだも�
 ## LaTeXの環境構築
 
 Windowsはがんばれ
+
+[情報科学屋さんを目指す人のメモ](http://did2memo.net/)
+
+このサイトがわかりやすいと思います
+
