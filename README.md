@@ -32,3 +32,4 @@ Windowsはがんばれ
 
 このサイトがわかりやすいと思います
 
+Macの場合は `brew install mactex` か `mac Texインストールで調べると幸せになれます`
